@@ -1,6 +1,6 @@
 # Milkshake flavors
 
-Vanilla
-Chocolate
-Strawberry
+Vanilla,
+Chocolate,
+Strawberry.
 

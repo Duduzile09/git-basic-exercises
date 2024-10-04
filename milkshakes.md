@@ -1,1 +1,4 @@
-Chocolate, Banana, BarOne, Oreo, Mint, Bubblegum
+Vanilla
+Chocolate
+Strawberry
+

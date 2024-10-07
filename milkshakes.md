@@ -1,5 +1,7 @@
-BarOne
-Vanilla
-Chocolate
-Strawberry
+# Milkshke flavours
+
+BarOne,
+Vanilla,
+Chocolate,
+Strawberry.
 

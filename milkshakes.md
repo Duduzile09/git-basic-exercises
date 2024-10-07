@@ -1,6 +1,6 @@
-# Milkshke flavours
+# Milkshake flavours
 
-BarOne,
+Barone,
 Vanilla,
 Chocolate,
 Strawberry.
